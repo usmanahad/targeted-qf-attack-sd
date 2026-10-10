@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+qf_results/
+qf_results.zip
+.DS_Store
+__MACOSX/

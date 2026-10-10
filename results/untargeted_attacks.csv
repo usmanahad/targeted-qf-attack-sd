@@ -1,0 +1,73 @@
+prompt_id,prompt,method,position,suffix,adv_prompt,cos,seconds,encoder_queries,relaxed_cos,unrefined_cos,condition
+0,A black bicycle against a brick wall,random,suffix,@(8su,A black bicycle against a brick wall @(8su,0.8467648029327393,0.18175983428955078,1,,,random
+0,A black bicycle against a brick wall,greedy,suffix,"e""q7|","A black bicycle against a brick wall e""q7|",0.6436450481414795,1.3782718181610107,340,,,greedy
+0,A black bicycle against a brick wall,genetic,suffix,.~87:,A black bicycle against a brick wall .~87:,0.6161056756973267,1.8961002826690674,430,,,genetic
+0,A black bicycle against a brick wall,pgd,suffix,g+{@s,A black bicycle against a brick wall g+{@s,0.7379672527313232,2.553675889968872,193,0.30372774600982666,0.7873852849006653,pgd
+0,A black bicycle against a brick wall,greedy,prefix,$ce~i,$ce~i A black bicycle against a brick wall,0.5374550819396973,1.3247511386871338,340,,,greedy_prefix
+0,A black bicycle against a brick wall,genetic,prefix,"kjp*""","kjp*"" A black bicycle against a brick wall",0.5528966784477234,1.9917800426483154,449,,,genetic_prefix
+1,A snake and a young man,random,suffix,jvgy],A snake and a young man jvgy],0.8365405797958374,0.011420726776123047,1,,,random
+1,A snake and a young man,greedy,suffix,d5apc,A snake and a young man d5apc,0.5835326910018921,1.321808099746704,340,,,greedy
+1,A snake and a young man,genetic,suffix,y?8kx,A snake and a young man y?8kx,0.482145756483078,1.9010484218597412,423,,,genetic
+1,A snake and a young man,pgd,suffix,tv{fc,A snake and a young man tv{fc,0.5700923204421997,2.226271867752075,220,0.15207405388355255,0.7185118198394775,pgd
+1,A snake and a young man,greedy,prefix,uzi>u,uzi>u A snake and a young man,0.4118461608886719,1.3456792831420898,340,,,greedy_prefix
+1,A snake and a young man,genetic,prefix,kg!!u,kg!!u A snake and a young man,0.40618690848350525,1.9097299575805664,420,,,genetic_prefix
+2,A cup of coffee on a wooden table,random,suffix,mn&ln,A cup of coffee on a wooden table mn&ln,0.8380871415138245,0.010684728622436523,1,,,random
+2,A cup of coffee on a wooden table,greedy,suffix,yc&9%,A cup of coffee on a wooden table yc&9%,0.6758134961128235,1.3600542545318604,340,,,greedy
+2,A cup of coffee on a wooden table,genetic,suffix,&'i5s,A cup of coffee on a wooden table &'i5s,0.6492944955825806,2.065295457839966,454,,,genetic
+2,A cup of coffee on a wooden table,pgd,suffix,&tv7p,A cup of coffee on a wooden table &tv7p,0.6768566370010376,2.284965753555298,229,0.2952989339828491,0.7361730337142944,pgd
+2,A cup of coffee on a wooden table,greedy,prefix,u>an6,u>an6 A cup of coffee on a wooden table,0.6101012229919434,1.3833096027374268,340,,,greedy_prefix
+2,A cup of coffee on a wooden table,genetic,prefix,|rj>w,|rj>w A cup of coffee on a wooden table,0.5879034996032715,1.9605607986450195,426,,,genetic_prefix
+3,A red apple on a white plate,random,suffix,"++r4""","A red apple on a white plate ++r4""",0.8637487888336182,0.011229753494262695,1,,,random
+3,A red apple on a white plate,greedy,suffix,yc7s|,A red apple on a white plate yc7s|,0.5911341309547424,1.3978652954101562,340,,,greedy
+3,A red apple on a white plate,genetic,suffix,es6'i,A red apple on a white plate es6'i,0.5969351530075073,2.1624090671539307,465,,,genetic
+3,A red apple on a white plate,pgd,suffix,y`gtx,A red apple on a white plate y`gtx,0.7304792404174805,2.010634183883667,170,0.6583045721054077,0.7304792404174805,pgd
+3,A red apple on a white plate,greedy,prefix,$cnh%,$cnh% A red apple on a white plate,0.44780153036117554,1.4157495498657227,340,,,greedy_prefix
+3,A red apple on a white plate,genetic,prefix,$kr:e,$kr:e A red apple on a white plate,0.50208580493927,2.082827568054199,445,,,genetic_prefix
+4,A dog running on the beach,random,suffix,er\8*,A dog running on the beach er\8*,0.810128927230835,0.011312246322631836,1,,,random
+4,A dog running on the beach,greedy,suffix,kwi:(,A dog running on the beach kwi:(,0.7000565528869629,1.4342939853668213,340,,,greedy
+4,A dog running on the beach,genetic,suffix,>yz76,A dog running on the beach >yz76,0.6116979122161865,2.205453872680664,467,,,genetic
+4,A dog running on the beach,pgd,suffix,g[tv`,A dog running on the beach g[tv`,0.6575040817260742,2.1963956356048584,207,0.3287023901939392,0.7747963070869446,pgd
+4,A dog running on the beach,greedy,prefix,u>lw%,u>lw% A dog running on the beach,0.5431315898895264,1.4335153102874756,340,,,greedy_prefix
+4,A dog running on the beach,genetic,prefix,u2sx>,u2sx> A dog running on the beach,0.44280773401260376,2.0489070415496826,429,,,genetic_prefix
+5,A lighthouse on a rocky coast at sunset,random,suffix,&-o{',A lighthouse on a rocky coast at sunset &-o{',0.8975275754928589,0.011868476867675781,1,,,random
+5,A lighthouse on a rocky coast at sunset,greedy,suffix,k6*gz,A lighthouse on a rocky coast at sunset k6*gz,0.7400181293487549,1.4535536766052246,340,,,greedy
+5,A lighthouse on a rocky coast at sunset,genetic,suffix,$8tv{,A lighthouse on a rocky coast at sunset $8tv{,0.69362872838974,2.151235818862915,449,,,genetic
+5,A lighthouse on a rocky coast at sunset,pgd,suffix,|b!*w,A lighthouse on a rocky coast at sunset |b!*w,0.8260218501091003,2.1260080337524414,189,0.2663748264312744,0.8375999331474304,pgd
+5,A lighthouse on a rocky coast at sunset,greedy,prefix,u>be%,u>be% A lighthouse on a rocky coast at sunset,0.67505943775177,1.479205846786499,340,,,greedy_prefix
+5,A lighthouse on a rocky coast at sunset,genetic,prefix,jv&i@,jv&i@ A lighthouse on a rocky coast at sunset,0.6669418811798096,2.172750234603882,446,,,genetic_prefix
+6,A bowl of ramen with chopsticks,random,suffix,lx%6n,A bowl of ramen with chopsticks lx%6n,0.8417989015579224,0.012466669082641602,1,,,random
+6,A bowl of ramen with chopsticks,greedy,suffix,nl|ae,A bowl of ramen with chopsticks nl|ae,0.6940920352935791,1.4971411228179932,340,,,greedy
+6,A bowl of ramen with chopsticks,genetic,suffix,ej?o;,A bowl of ramen with chopsticks ej?o;,0.6891694664955139,2.1983444690704346,442,,,genetic
+6,A bowl of ramen with chopsticks,pgd,suffix,&s5fv,A bowl of ramen with chopsticks &s5fv,0.7059726715087891,2.176058053970337,193,0.35439813137054443,0.7697257995605469,pgd
+6,A bowl of ramen with chopsticks,greedy,prefix,+x&&a,+x&&a A bowl of ramen with chopsticks,0.5804013013839722,1.5124802589416504,340,,,greedy_prefix
+6,A bowl of ramen with chopsticks,genetic,prefix,&9$_&,&9$_& A bowl of ramen with chopsticks,0.5510392785072327,2.1810531616210938,439,,,genetic_prefix
+7,An old man reading a newspaper on a bench,random,suffix,r>;?r,An old man reading a newspaper on a bench r>;?r,0.8830138444900513,0.012763023376464844,1,,,random
+7,An old man reading a newspaper on a bench,greedy,suffix,k97>q,An old man reading a newspaper on a bench k97>q,0.7267231941223145,1.5167653560638428,340,,,greedy
+7,An old man reading a newspaper on a bench,genetic,suffix,!s5kx,An old man reading a newspaper on a bench !s5kx,0.6107523441314697,2.2050113677978516,438,,,genetic
+7,An old man reading a newspaper on a bench,pgd,suffix,+pk$u,An old man reading a newspaper on a bench +pk$u,0.7419161796569824,2.3361880779266357,220,0.3850431740283966,0.8453270196914673,pgd
+7,An old man reading a newspaper on a bench,greedy,prefix,+wiv&,+wiv& An old man reading a newspaper on a bench,0.6602773666381836,1.5560059547424316,340,,,greedy_prefix
+7,An old man reading a newspaper on a bench,genetic,prefix,xg&t>,xg&t> An old man reading a newspaper on a bench,0.6137280464172363,2.317265510559082,451,,,genetic_prefix
+8,A sailboat on a calm lake,random,suffix,"n""&-;","A sailboat on a calm lake n""&-;",0.869851291179657,0.013052940368652344,1,,,random
+8,A sailboat on a calm lake,greedy,suffix,"""'tvs","A sailboat on a calm lake ""'tvs",0.6239334940910339,1.578073263168335,340,,,greedy
+8,A sailboat on a calm lake,genetic,suffix,qh?8$,A sailboat on a calm lake qh?8$,0.6344146728515625,2.354696273803711,451,,,genetic
+8,A sailboat on a calm lake,pgd,suffix,ap!r6,A sailboat on a calm lake ap!r6,0.6009787917137146,2.1246931552886963,179,0.322675883769989,0.713783860206604,pgd
+8,A sailboat on a calm lake,greedy,prefix,u>asu,u>asu A sailboat on a calm lake,0.6134154200553894,1.6265580654144287,340,,,greedy_prefix
+8,A sailboat on a calm lake,genetic,prefix,kd6i>,kd6i> A sailboat on a calm lake,0.4549673795700073,2.3696846961975098,442,,,genetic_prefix
+9,A cat sleeping on a sofa,random,suffix,;|4;<,A cat sleeping on a sofa ;|4;<,0.8592151403427124,0.014260530471801758,1,,,random
+9,A cat sleeping on a sofa,greedy,suffix,"g""""dm","A cat sleeping on a sofa g""""dm",0.5641661882400513,1.6446309089660645,340,,,greedy
+9,A cat sleeping on a sofa,genetic,suffix,zr{9k,A cat sleeping on a sofa zr{9k,0.5608022809028625,2.2260777950286865,409,,,genetic
+9,A cat sleeping on a sofa,pgd,suffix,g$2vw,A cat sleeping on a sofa g$2vw,0.6320782899856567,2.1852476596832275,187,0.2923470437526703,0.7467288374900818,pgd
+9,A cat sleeping on a sofa,greedy,prefix,$zw+u,$zw+u A cat sleeping on a sofa,0.4621109366416931,1.709376335144043,340,,,greedy_prefix
+9,A cat sleeping on a sofa,genetic,prefix,$zco>,$zco> A cat sleeping on a sofa,0.5490986108779907,2.5942327976226807,457,,,genetic_prefix
+10,A snowy mountain under a blue sky,random,suffix,"?\""u|","A snowy mountain under a blue sky ?\""u|",0.8446869850158691,0.01795482635498047,1,,,random
+10,A snowy mountain under a blue sky,greedy,suffix,%d4?!,A snowy mountain under a blue sky %d4?!,0.6608757376670837,1.727003812789917,340,,,greedy
+10,A snowy mountain under a blue sky,genetic,suffix,6jcw?,A snowy mountain under a blue sky 6jcw?,0.6459947228431702,2.673628330230713,462,,,genetic
+10,A snowy mountain under a blue sky,pgd,suffix,]e{wb,A snowy mountain under a blue sky ]e{wb,0.6640218496322632,2.2505130767822266,202,0.41329026222229004,0.7439862489700317,pgd
+10,A snowy mountain under a blue sky,greedy,prefix,u>%bf,u>%bf A snowy mountain under a blue sky,0.665250837802887,1.7805631160736084,340,,,greedy_prefix
+10,A snowy mountain under a blue sky,genetic,prefix,#.izx,#.izx A snowy mountain under a blue sky,0.5313588380813599,2.7198095321655273,459,,,genetic_prefix
+11,A vase of sunflowers by the window,random,suffix,9v=na,A vase of sunflowers by the window 9v=na,0.8657740354537964,0.016404151916503906,1,,,random
+11,A vase of sunflowers by the window,greedy,suffix,u2>id,A vase of sunflowers by the window u2>id,0.5992197394371033,1.7938389778137207,340,,,greedy
+11,A vase of sunflowers by the window,genetic,suffix,.hp5+,A vase of sunflowers by the window .hp5+,0.6476564407348633,2.4746787548065186,423,,,genetic
+11,A vase of sunflowers by the window,pgd,suffix,|oda{,A vase of sunflowers by the window |oda{,0.7893106341362,2.1976191997528076,192,0.48807159066200256,0.7962901592254639,pgd
+11,A vase of sunflowers by the window,greedy,prefix,u>%vj,u>%vj A vase of sunflowers by the window,0.7096118927001953,1.7619187831878662,340,,,greedy_prefix
+11,A vase of sunflowers by the window,genetic,prefix,",r,br",",r,br A vase of sunflowers by the window",0.573692798614502,2.60020112991333,450,,,genetic_prefix

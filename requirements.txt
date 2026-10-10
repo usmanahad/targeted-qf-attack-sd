@@ -1,0 +1,8 @@
+torch
+transformers
+diffusers
+accelerate
+scipy
+pandas
+matplotlib
+tabulate
